@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="recycler_swipe_color_text_gray">#FF777777</color>
+    <color name="recycler_swipe_color_loading_color1">#55777777</color>
+    <color name="recycler_swipe_color_loading_color2">#B1777777</color>
+    <color name="recycler_swipe_color_loading_color3">#FF777777</color>
+
+    <color name="page_color">#efefef</color>
+
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+    <color name="status_bar_fragment_mine">#3d3636</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_4c">#4c000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="b_33">#333333</color>
+    <color name="b_80">#808080</color>
+    <color name="b_96">#969696</color>
+    <color name="b_99">#999999</color>
+    <color name="b_d1">#d1d1d1</color>
+    <color name="b_fa">#fafafa</color>
+    <color name="brown">#a68537</color>
+
+</resources>
